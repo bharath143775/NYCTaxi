@@ -59,7 +59,7 @@ NYC TLC Trip Record Data
 
 ## 📸 Screenshots
 
-![Staging Pipeline](./Assets/screenshots/StagingPipeline.png)  
-![Presentation Dataflow Gen2](./Assets/screenshots/PresentationDataflow.png)
-![Presentation Pipeline](./Assets/screenshots/PresentationPipeline.png)
-![Orchestration Pipeline](./Assets/screenshots/OrchestrationPipeline.png)
+![Staging Pipeline](./Assets/Screenshots/StagingPipeline.png)  
+![Presentation Dataflow Gen2](./Assets/Screenshots/PresentationDataflow.png)
+![Presentation Pipeline](./Assets/Screenshots/PresentationPipeline.png)
+![Orchestration Pipeline](./Assets/Screenshots/OrchestrationPipeline.png)
