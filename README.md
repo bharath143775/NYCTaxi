@@ -29,7 +29,7 @@ To learn more about individual components and the implementation details, visit 
 
 ## 👤 Author
 
-**Bharath Kumar**  
+**T Bharath Kumar Reddy**  
 🔗 [LinkedIn](https://www.linkedin.com/in/bharath-kumar143775/)  
 📧 bharath143775@gmail.com
 
